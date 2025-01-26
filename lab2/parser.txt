@@ -1,0 +1,54 @@
+0 <A> stavi 26
+0 <B> stavi 25
+0 <S> stavi 14
+0 a pomakni 29
+0 b pomakni 24
+1 a reduciraj <A> a 
+2 a reduciraj <A> a 
+2 b reduciraj <A> a 
+3 term reduciraj <A> a 
+4 a reduciraj <B> b 
+4 b reduciraj <B> b 
+5 term reduciraj <B> b 
+6 <A> stavi 7
+6 a pomakni 3
+7 term reduciraj <S> <A> <A> 
+8 <A> stavi 9
+8 a pomakni 2
+9 <A> stavi 26
+9 <B> stavi 25
+9 <S> stavi 10
+9 a pomakni 1
+9 b pomakni 24
+10 term reduciraj <S> <A> <A> <S> 
+11 term reduciraj <S> <B> 
+12 <A> stavi 26
+12 <B> stavi 25
+12 <S> stavi 13
+12 a pomakni 1
+12 b pomakni 24
+13 term reduciraj <S> <B> <S> 
+14 term prihvati
+24 a reduciraj <B> b 
+24 b reduciraj <B> b 
+24 term reduciraj <B> b 
+25 <A> stavi 26
+25 <B> stavi 25
+25 <S> stavi 13
+25 a pomakni 1
+25 b pomakni 24
+25 term reduciraj <S> <B> 
+26 <A> stavi 28
+26 a pomakni 27
+27 a reduciraj <A> a 
+27 b reduciraj <A> a 
+27 term reduciraj <A> a 
+28 <A> stavi 26
+28 <B> stavi 25
+28 <S> stavi 10
+28 a pomakni 1
+28 b pomakni 24
+28 term reduciraj <S> <A> <A> 
+29 a reduciraj <A> a 
+29 b reduciraj <A> a 
+29 term reduciraj <A> a 
